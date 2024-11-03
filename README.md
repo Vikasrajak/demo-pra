@@ -1,2 +1,2 @@
 # demo-pra
-This is for practice part 
+This is for practice part.
